@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "366239100168",
+    "firebase_url": "https://aetamaiyur.firebaseio.com",
+    "project_id": "aetamaiyur",
+    "storage_bucket": "aetamaiyur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366239100168:android:6dadd4af1e83c7224750bd",
+        "android_client_info": {
+          "package_name": "info.passdaily.new_sun_rise_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366239100168-kbd1t6bllkhrh1vkb76s81ot9rlcgfc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2SX8FjQzY3zQ7aAqwY41OhUCyzGqmHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366239100168-kbd1t6bllkhrh1vkb76s81ot9rlcgfc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366239100168:android:2c00bbc418076140",
+        "android_client_info": {
+          "package_name": "info.reign.aetamayur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366239100168-9l7agmc7une1la7e6ta29v8bq14lvv4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.reign.aetamayur",
+            "certificate_hash": "30e765c7beaf427efae4252e65e8d52206a9a40d"
+          }
+        },
+        {
+          "client_id": "366239100168-kbd1t6bllkhrh1vkb76s81ot9rlcgfc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2SX8FjQzY3zQ7aAqwY41OhUCyzGqmHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366239100168-kbd1t6bllkhrh1vkb76s81ot9rlcgfc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
