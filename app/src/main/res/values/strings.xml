@@ -484,6 +484,8 @@
     <!--    <string name="admin_attendance_making">Admin Attendance Making</string>-->
     <string name="admin_attendance_making">Manage Staff Attendance</string>
     <string name="select_staff">Select Staff</string>
+    <string name="select_term">Select Term</string>
+
     <string name="clear">Clear</string>
     <string name="done">Done</string>
     <string name="select_page">Select Page</string>

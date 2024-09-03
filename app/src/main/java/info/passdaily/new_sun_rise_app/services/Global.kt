@@ -62,6 +62,12 @@ class Global {
 
         var getGradeMark = ArrayList<ArrayList<GradeCommonModel.GradeList>>()
 
+        ///
+        var feesDetailsModel = ArrayList<FeesDetailsModel.FeesPaidDetail>()
+
+        //pay fees
+        var tabController  = 1;
+
 
         var blockDetailsModel = ArrayList<BlockDetailsModel.BlockDetail>()
         var blockStatus = false

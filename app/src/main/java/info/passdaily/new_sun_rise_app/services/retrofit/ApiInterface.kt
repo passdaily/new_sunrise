@@ -651,6 +651,24 @@ interface ApiInterface {
     ): Response<FeesDetailsModel>
 
 
+
+    ///http://holyapp.passdaily.in/PassDailyParentsApi/Fees/PayFeeStupGet?StudentId=741&ClassId=55
+    @GET("Fees/PayFeeStupGet")
+    suspend fun payFeesDetails(
+        @Query("StudentId") StudentId: Int,
+        @Query("ClassId") ClassId: Int
+        //category
+    ): Response<PayFeesModel>
+
+
+    @GET("Fees/FeesPaidDetailsForPrint")
+    suspend fun feesPaidDetails(
+        @Query("StudentId") StudentId: Int,
+        @Query("ReceiptId") ReceiptId: Int
+        //category
+    ): Response<FeesDetailPaidModel>
+
+
     ////Exam/ExamNameGet?ExamId=0
     @GET("Exam/ExamNameGet")
     suspend fun examDetailsList(
